@@ -1,0 +1,29 @@
+.add-slider-form {
+    margin-bottom: 20px;
+}
+
+.add-slider-form div {
+    margin-bottom: 10px;
+}
+
+.add-slider-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.add-slider-form input, .add-slider-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.add-slider-form button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

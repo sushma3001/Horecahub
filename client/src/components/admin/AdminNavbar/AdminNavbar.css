@@ -1,0 +1,19 @@
+.admin-navbar {
+    background-color: #333;
+    padding: 1rem;
+}
+
+.admin-navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.admin-navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.admin-navbar ul li a:hover {
+    text-decoration: underline;
+}
