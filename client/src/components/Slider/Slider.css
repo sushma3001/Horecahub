@@ -1,0 +1,33 @@
+.slider-container {
+    display: flex;
+    overflow: auto;
+    white-space: nowrap;
+    width: 100%;
+    scroll-behavior: smooth;
+}
+
+.slider-item {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.slider-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.slider-content {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.slider-content h2 {
+    font-size: 24px;
+}
+
+.slider-content p {
+    font-size: 16px;
+}
